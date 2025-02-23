@@ -1,0 +1,19 @@
+978-0-307-74393-4, To Kill a Mockingbird, Harper Lee, T
+978-1-101-15436-4, The Great Gatsby, F. Scott Fitzgerald, F
+978-0-679-72336-5, Brave New World, Aldous Huxley, F
+978-0-06-112008-0, Fahrenheit 451, Ray Bradbury, F
+978-0-452-28423-4, The Catcher in the Rye, J.D. Salinger, F
+978-0-553-29698-4, The Hobbit, J.R.R. Tolkien, T
+978-0-06-093546-7, One Hundred Years of Solitude, Gabriel Garcia Marquez, F
+978-0-7432-7356-2, The Kite Runner, Khaled Hosseini, F
+978-0-451-17252-6, 1938, Garf Aster, F
+978-1-4391-4883-6, The Hunger Games, Suzanne Collins, F
+978-0-14-303943-3, 1911, Haruki Murakami, T
+978-0-06-112241-1, Slaughterhouse-Five, Kurt Vonnegut, T
+978-0-553-21311-7, Animal Farm, George Orwell, F
+978-0-8129-7449-9, The Road, Cormac McCarthy, F
+978-0-307-95732-9, The Alchemist, Paulo Coelho, F
+978-0-385-48680-1, Dune, Frank Herbert, F
+978-0-14-116280-1, The Martian, Andy Weir, F
+978-0-14-118280-1, One Flew Over the Cuckoo's Nest, Ken Kesey, F
+, , , F

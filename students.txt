@@ -1,0 +1,24 @@
+123456, John Doe
+234567, Jane Smith,978-0-06-112241-1, Slaughterhouse-Five, Kurt Vonnegut, F
+345678, Michael Johnson,978-0-14-303943-3, 1911, Haruki Murakami, F,978-0-307-74393-4, To Kill a Mockingbird, Harper Lee, F
+456789, Emily Brown
+567890, Christopher Davis
+678901, Olivia Wilson
+789012, Daniel Taylor
+890123, Sophia Anderson
+901234, Matthew Martinez
+113456, Ava Thomas
+236567, Ethan Jackson
+345758, Emma White
+45458, Nicholas Harris
+567290, Madison Martin
+673401, Jacob Thompson
+782012, Grace Garcia
+892223, Joshua Robinson
+901264, Lily Hall
+188456, Andrew Young
+220303, Yusuf Oz
+984523, Sinan Kacar
+583940, Koray Urun
+220702076, Elif  Ergen,978-0-553-29698-4, The Hobbit, J.R.R. Tolkien, F
+
